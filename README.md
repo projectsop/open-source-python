@@ -6,4 +6,4 @@ How to contribute in our python project?
  4. Create a pull request
  5. Done, don't worry. Our team will view and accept your PR within a few hours/days.
 
-### Thanks <a href = "https://t.me/untold_hacker>Channel</a>
+### Thanks <a href = "https://t.me/untold_hacker> Channel </a>
